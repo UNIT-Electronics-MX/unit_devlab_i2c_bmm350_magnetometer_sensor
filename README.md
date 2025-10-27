@@ -1,5 +1,5 @@
 
-# UNIT BMM350 Magnetometer I3C Module
+# DevLab: I2C BMM350 Magnetometer Sensor
 
 <div align="center">
   <img src="hardware/resources/unit_top_v_1_0_0_bmm350_magnetometer_i3c.png" width="450px" alt="Development Board">
